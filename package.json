@@ -1,0 +1,17 @@
+{
+  "name": "erc20-102",
+  "version": "1.0.0",
+  "description": "erc20 102",
+  "main": "index.js",
+  "author": "Maxence Raballand",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "3.4.1",
+    "@truffle/hdwallet-provider": "^2.0.0",
+    "dotenv": "^10.0.0",
+    "truffle": "^5.4.23"
+  },
+  "scripts": {
+    "test": "node index.js"
+  }
+}
